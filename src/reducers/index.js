@@ -3,7 +3,7 @@ import * as actionTypes from "../actions/types";
 
 const initialUserState = {
   currentUser: null,
-  isLoading: 
+  isLoading:true 
   
 };
 
